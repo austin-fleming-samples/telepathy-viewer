@@ -1,0 +1,23 @@
+.row {
+    @apply flex flex-row mt-2 flex-wrap text-sm gap-4;
+}
+
+.field {
+	@apply flex flex-row items-center gap-2;
+}
+
+.formField {
+	@apply flex flex-row py-[3px] pl-[3px] gap-2 rounded-full bg-brandbright-900;
+}
+
+.inputField {
+	@apply rounded-full font-mono pl-[0.5em] fill-zinc-200;
+}
+
+.submitButton {
+	@apply text-sm font-bold rounded-full px-[1.5em] z-10 bg-brandbright-900 bg-opacity-70 backdrop-blur-md text-branddark-900 opacity-70 hover:text-branddark-500;
+}
+
+.formLabel {
+	@apply text-sm leading-none opacity-70;
+}

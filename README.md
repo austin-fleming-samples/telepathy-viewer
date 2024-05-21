@@ -1,2 +1,8 @@
-# telepathy-viewer
-UI for viewing messages sent via Telepathy protocol
+# Telepathy Viewer
+
+Allows viewing recent events on Telepathy protocol
+
+## Running
+
+```pnpm install```
+```pnpm dev```

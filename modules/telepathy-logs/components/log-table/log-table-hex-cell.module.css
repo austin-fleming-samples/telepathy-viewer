@@ -1,0 +1,7 @@
+.popoverModal {
+	@apply w-[300px] p-4 flex flex-row gap-2 rounded-md bg-branddark-500 drop-shadow-xl bg-opacity-70 backdrop-blur-md;
+}
+
+.popoverText {
+	@apply font-mono text-sm font-light break-all;
+}

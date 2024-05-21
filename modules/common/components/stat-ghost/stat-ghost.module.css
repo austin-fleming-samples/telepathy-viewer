@@ -1,0 +1,3 @@
+.ghostbox {
+	@apply flex flex-row items-center justify-center gap-2 mr-4;
+}

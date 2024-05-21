@@ -1,0 +1,3 @@
+.pillbox {
+	@apply text-sm rounded-full drop-shadow-xl bg-branddark-800 bg-opacity-70 backdrop-blur-md px-[1.5em] py-[0.5em] mr-2 flex flex-row justify-center items-center gap-2;
+}
